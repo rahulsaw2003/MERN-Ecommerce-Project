@@ -4,10 +4,10 @@
 
 Hi! My name is **Rahul Kumar Saw**, I have this Ecommerce Website Project using MERN Stack to gain a handson experience of full stack web development.
 
-# DESCRIPTION
+## Description
 "PrimePicks is a modern and feature-rich Ecommerce website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a seamless online shopping experience, allowing them to browse through a wide range of products, add items to their cart, and securely complete their purchases.
 
-# Key Features:
+## Key Features:
 
 * User Registration and Authentication: Users can create accounts, log in securely, and manage their profiles.
 * Product Catalog: A comprehensive catalog showcasing a diverse range of products with detailed descriptions, images, and pricing information.
@@ -23,7 +23,7 @@ Hi! My name is **Rahul Kumar Saw**, I have this Ecommerce Website Project using 
 
 Feel free to explore the project's source code, contribute, and customize it to meet your specific requirements. Happy coding!"
 
-# Techstacks Used
+## Techstacks Used
 
 1.  **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
 2.  Node - https://youtu.be/BSO9C8Z-YV8
