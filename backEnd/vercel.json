@@ -3,7 +3,7 @@
 	"name": "MERN-Ecommerce",
 	"builds": [
 		{
-			"src": "backEnd/server.js",
+			"src": "server.js",
 			"use": "@vercel/node"
 		},
 		{
@@ -11,10 +11,5 @@
 			"use": "@vercel/static"
 		}
 	],
-	"routes": [
-		{
-			"src": "/(.*)",
-			"dest": "/"
-		}
-	]
+	"rewrites": [{ "source": "/(.*)", "destination": "server.js" }]
 }
